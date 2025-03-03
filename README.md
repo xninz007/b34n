@@ -1,5 +1,3 @@
-# b34n auto swap
-
 ## Installasi
 
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
